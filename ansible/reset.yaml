@@ -1,3 +1,5 @@
+---
+
 - hosts: all
   user: terraform-libvirt
   become: true

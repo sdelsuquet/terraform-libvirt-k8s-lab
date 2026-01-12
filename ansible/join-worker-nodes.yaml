@@ -1,3 +1,5 @@
+---
+
 - hosts: ["control-bootstrap", "nodes"]
   user: terraform-libvirt
   roles:

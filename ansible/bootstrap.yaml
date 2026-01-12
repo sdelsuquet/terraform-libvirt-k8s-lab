@@ -1,3 +1,5 @@
+---
+
 - hosts: control_plane
   user: terraform-libvirt
   roles:
